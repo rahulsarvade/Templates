@@ -15,11 +15,14 @@ How many user impacted:
 
 Since when they are experiencing the issue: (time stamps) :
 
-Web URL - (URl):
+Web URL - (URL):
 
 Screenshot:
+
 Office or Work from home:
+
 Remote access Tool :-(Citrix, Global protect or Cisco Meraki)
+
 System Info :-
       Host name :
       Opreating System:
