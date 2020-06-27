@@ -34,17 +34,17 @@ System Info :-
 troubleshooting :
 (e.g)
 
- -IE reset
+ IE reset:
  
- -Clear History
+ Clear History:
  
- -Proxy settings
+ Proxy settings:
  
- -Internet check- (Connected or not)
+ Internet check- (Connected or not):
  
- -Run- Developer tools (f12)
+ Run- Developer tools (f12):
  
- -Chekced with Other browsers 
-  -etc.
+ Chekced with Other browsers:
+  etc.
   
 Gather the information like users names and their contact details etc
