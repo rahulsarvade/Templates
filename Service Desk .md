@@ -27,17 +27,24 @@ System Info :-
 
       Host name :
       
-      Opreating System:
+      Operating System:
       
       Browser:(IE,Edge, Google Chrome)
       
 troubleshooting :
 (e.g)
+
  -IE reset
+ 
  -Clear History
+ 
  -Proxy settings
+ 
  -Internet check- (Connected or not)
+ 
  -Run- Developer tools (f12)
+ 
  -Chekced with Other browsers 
- -etc.
+  -etc.
+  
 Gather the information like users names and their contact details etc
