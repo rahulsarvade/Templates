@@ -6,11 +6,17 @@ Applicaitons:
 CRM :-
 
 What exactly the issue is (Issue Summery) :
+
 What are the applications impacted:
+
 CBA or Non CBA :- 
+
 How many user impacted:
+
 Since when they are experiencing the issue: (time stamps) :
+
 Web URL - (URl):
+
 Screenshot:
 Office or Work from home:
 Remote access Tool :-(Citrix, Global protect or Cisco Meraki)
