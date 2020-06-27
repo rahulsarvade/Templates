@@ -54,4 +54,9 @@ troubleshooting :
      Checked with Other browsers:
      etc.
   
-Gather the information like users names and their contact details etc
+Contact details:
+     
+     Name:
+     Contact Number:
+     Email :
+     
