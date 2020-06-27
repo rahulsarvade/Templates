@@ -26,7 +26,7 @@ Screenshot:
 
 Office or Work from home:
 
-Remote access Tool :-(Citrix, Global protect or Cisco Meraki)
+Remote access Tool :-(Citrix, Global protect, AWS or Cisco Meraki)
 
 System Info :-
 
