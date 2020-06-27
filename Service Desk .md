@@ -92,7 +92,7 @@ System Info :-
       
       Operating System:
       
-      Browser:(IE,Edge, Google Chrome)
+      Browser detials:(if requied)
       
       
 troubleshooting :
