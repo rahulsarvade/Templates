@@ -3,13 +3,16 @@ Ticket assign Templates
 
 Applicaitons:
 
-CRM :-
+CRM/E5/other web applicaions  :-
+
 
 What exactly the issue is (Issue Summery) :
 
 What are the applications impacted:
 
-CBA or Non CBA :- 
+CBA or Non CBA :
+
+Location :
 
 How many user impacted:
 
