@@ -44,7 +44,7 @@ troubleshooting :
  
  Run- Developer tools (f12):
  
- Chekced with Other browsers:
+Checked with Other browsers:
   etc.
   
 Gather the information like users names and their contact details etc
