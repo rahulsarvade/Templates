@@ -24,8 +24,11 @@ Office or Work from home:
 Remote access Tool :-(Citrix, Global protect or Cisco Meraki)
 
 System Info :-
+
       Host name :
+      
       Opreating System:
+      
       Browser:(IE,Edge, Google Chrome)
       
 troubleshooting :
