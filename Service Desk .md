@@ -63,7 +63,7 @@ Contact details:
      
 
 --------------------------------------------
-Carebase/Claims.net/ EMC/ Other applicaions  :-
+Carebase/Claims.net/ EMC/ Other Desktop applicaions  :-
 --------------------------------------------
 
 What exactly the issue is (Issue Summery) :
