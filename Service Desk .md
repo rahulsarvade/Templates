@@ -68,45 +68,44 @@ What are the applications impacted:
 
 CBA or Non CBA :
 
-Location :
+Location:
 
-How many user impacted:
+How many user impacted?
 
 Since when they are experiencing the issue: (time stamps) :
 
-Apllication Name and version :
+Application Name and version:
 
 Screenshot:
 
 Office or Work from home:
 
-Remote access Tool :-(Citrix, Global protect, AWS or Cisco Meraki)
+Remote access Tool :-( Citrix, Global protect, AWS or Cisco Meraki)
 
 System Info :-
 
-      Host name :
-      
+      Host name:
+  
       Operating System:
-      
-      Browser detials:(if requied)
-      
-      
-troubleshooting :
-(e.g)
+  
+      Browser details :( if required)
 
-     Access added or Not :
-     
+      
+      
+Troubleshooting: (e.g.)
+
+     Access added or Not:
+ 
      Network check:
- 
-     Run the applicaion step by step:
- 
+
+     Run the application step by step:
+
      Proxy settings:
- 
+
      Internet check- (Connected or not):
- 
-     install or re-install (if required):
-    
-     etc.
+
+     Install or re-install (if required):
+
   
 Contact details:
      
