@@ -4,7 +4,7 @@ Ticket assign Templates
 Applicaitons:
 
 -----------------------------
-CRM/E5/other web applicaions  :-
+CRM/E5/other web applications:-
 ------------------------------
 
 
@@ -59,7 +59,7 @@ Contact details:
      
 
 --------------------------------------------
-Carebase/Claims.net/ EMC/ Other Desktop applicaions  :-
+Carebase/Claims.net/ EMC/ Other Desktop applications:-
 --------------------------------------------
 
 What exactly the issue is (Issue Summery) :
