@@ -1,7 +1,7 @@
 # Templates
 Ticket assign Templates
 
-Applicaitons:
+Applications:
 
 -----------------------------
 CRM/E5/other web applications:-
